@@ -1,2 +1,2 @@
-# shiftplanner
-demo
+# shift-planner
+demo for managers
